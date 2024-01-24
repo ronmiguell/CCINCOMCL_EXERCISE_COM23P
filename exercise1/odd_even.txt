@@ -1,0 +1,7 @@
+num: User Input 
+
+IF num is divided by 2, THEN the remainder is zero 
+OUTPUT "num is even"
+
+ELSE IF 
+OUTPUT "num is odd" 
